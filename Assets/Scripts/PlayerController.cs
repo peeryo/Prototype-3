@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRb;
     private Animator playerAnim;
-    public float jumpForce = 10.0f;
+    public float jumpForce = 15.0f;
     public float gravityModifier;
     public bool isOnGround = true;
 
